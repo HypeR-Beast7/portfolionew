@@ -2,9 +2,9 @@ import { useState } from 'react'
 import './App.css'
 import Home from './pages/Home'
 import About from './pages/About'
-import Contact from './pages/contact'
-import Education from './pages/education'
-import Project from './pages/project'
+import Contact from './pages/Contact'
+import Education from './pages/Education'
+import Project from './pages/Project'
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
 
 function App() {
